@@ -56,14 +56,17 @@ Googleのバックエンドサービス「Firebase」を活用し、ユーザー
 
 セキュリティ保護のため、Firebaseとの接続に必要な **`google-services.json` は本リポジトリから除外しています。**
 
-本プロジェクトを自身の環境で動作させる場合は、以下の手順が必要です。
+本プロジェクトを自身の環境で動作させる場合は、自身のFirebaseプロジェクトから発行された `google-services.json` を `Assets` フォルダ直下に配置してください。
 
-1. [Firebase Console](https://console.firebase.google.com/) で自身のプロジェクトを作成する。
-2. Unityアプリをプロジェクトに登録し、発行された `google-services.json` を取得する。
-3. 取得したファイルを、Unityプロジェクト内の `Assets` フォルダ直下に配置する。
+---
 
-### 実行方法
+## 5. ライセンス / コピーライト
 
-1. Unityエディタでプロジェクトを開きます。
-2. `Scenes/LoginScene` を開き、再生ボタンを押して開始します。
-3. 初めての場合はサインアップを行い、届いたメールで認証を済ませてからログインしてください。
+本プロジェクトでは以下のフリーアセットを使用しています。
+
+- **3Dキャラクターモデル（ユニティちゃん）**
+  - © Unity Technologies Japan/UCL
+- **コインモデル**
+  - [Stylized Coin Pack](https://assetstore.unity.com/packages/3d/props/stylized-coin-pack-15-coins-gold-silver-bronze-wood-340494)
+- **カーモデル**
+  - [3 Low Poly Vehicles](https://assetstore.unity.com/packages/3d/vehicles/land/3-low-poly-vehicles-326904)
