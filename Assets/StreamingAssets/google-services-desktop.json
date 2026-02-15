@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "705944886058",
+    "project_id": "techstadium-unitywork",
+    "storage_bucket": "techstadium-unitywork.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705944886058:android:bc61d97eb45d81e1fe9c53",
+        "android_client_info": {
+          "package_name": "com.UnityTechnologies.com.unity.template.urpblank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQIe77tETVoWYq7Fq2Rtyb13TfTe7hmJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
